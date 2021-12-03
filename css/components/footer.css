@@ -1,0 +1,44 @@
+.footer{
+	padding: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	border-top: 1mm ridge rgba(92, 64, 51,.5);
+}
+
+
+.footer-inline {
+	display: flex;
+    justify-content: space-around;
+}
+
+.footer-inline li {
+	display: inline;
+	padding: 10px;
+}
+ 
+.footer-inline i {
+	color: rgb(51, 77, 85);
+	font-size: 30px;
+}
+
+.footer-inline i:hover {
+	color: rgb(0, 157, 174);
+}
+
+.footer p{
+	font-size: 14px;
+	font-weight: lighter;
+}
+
+.footer h4{
+	font-size: 14px;
+	text-align: center;
+	color: rgb(92, 64, 51);
+}
+
+.contact-inline{
+	display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+}

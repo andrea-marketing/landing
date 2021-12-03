@@ -1,0 +1,32 @@
+.container-column{
+  width: auto;
+  display: flex;
+  padding: 10px;
+}
+
+.column{
+  margin: 8px;
+  width: 550px;
+  display: flex;
+  flex-direction: column;
+}
+
+.column h3{
+  font-size: 18px;
+  text-align: center;
+  color: rgb(92, 64, 51);
+}
+
+.column p{
+  font-size: 16px;
+  font-weight: lighter;
+  text-align: center;
+
+}
+
+.column i{
+  font-size: 40px;
+  text-align: center;
+  color: rgb(0, 157, 174);
+  margin: 10px auto;
+}

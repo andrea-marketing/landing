@@ -1,0 +1,28 @@
+.container-column {
+	margin-bottom:40px;
+	background-color: white;
+	background-size: cover;
+
+}
+.container-box {
+	margin-bottom:40px;
+}
+
+.container-avatar {
+	margin-bottom:40px;
+	background-color: white;
+	background-size: cover;
+	padding: 8px 0px 40px;
+
+}
+
+.container-team {
+	margin-bottom:40px;
+}
+
+.container-info {
+	background-color: white;
+	background-size: cover;
+	padding: 8px 0px 40px;
+
+}

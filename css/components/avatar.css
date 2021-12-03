@@ -1,0 +1,24 @@
+
+.avatar img{
+	width: 150px;
+	height: 150px;
+	object-fit: cover;
+	border-radius: 50%;
+	box-shadow: 2px 3px 20px rgba(0,0,0,0.6);
+
+}
+
+.avatars {
+	margin: 10px;
+	display: flex;
+	lex-wrap: wrap;
+	grid-row: 1;
+	width: auto;
+	justify-content: space-around;
+
+}
+
+.avatars h3{
+	color: rgb(92, 64, 51);
+	text-align: center;
+	font-size: 16px;
